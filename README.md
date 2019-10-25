@@ -1,1 +1,16 @@
 # Oil Palm Classification in Riau province
+
+This repository contains the Jupyter notebooks that were developed for assessing the suitability of Sentinel-1 and Sentinel-2 mapping for oil palm mapping using supervised classification. 
+
+The code was written with Google Colaboratory. It requires the installation of the Google Earth Engine (GEE) API to call the training data, located as a GEE asset in the directory 'users/adriadescals/shared/points_2019_05_27_1311X_Riau_fold1_demoPoints'.
+
+A demo example of the GEE code for oil palm classification can be found at:
+https://code.earthengine.google.com/70a61b2ea4d2e93562397f1acbe6b337
+
+The repository contains the folling files:
+- Assessment_of_Random_Forest_for_oil_palm_classification.ipynb : Assessment and feature selection of Random Forest for the classification of oil palm.
+- Model_comparison_SFS_for_oil_palm_classification.ipynb : Comparison of supervised classificatoin models for oil palm classification.
+
+Adrià Descals - a.descals@creaf.uab.cat
+CREAF - Centre de Recerca Ecològica i Aplicacions Forestals
+
