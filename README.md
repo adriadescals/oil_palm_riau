@@ -1,6 +1,6 @@
-# Oil Palm Classification in Riau province
+# Assessment of supervised classification algorithms for oil palm mapping in Riau province (Indonesia)
 
-This repository contains the Jupyter notebooks that were developed for assessing the suitability of Sentinel-1 and Sentinel-2 mapping for oil palm mapping using supervised classification. 
+This repository contains the Jupyter notebooks that were developed for assessing the suitability of Sentinel-1 and Sentinel-2 for mapping oil palm (by typology and age) using supervised classification algorithms. 
 
 The code was written with Google Colaboratory. It requires the installation of the Google Earth Engine (GEE) API to call the training data, located as a GEE asset in the directory 'users/adriadescals/shared/points_2019_05_27_1311X_Riau_fold1_demoPoints'.
 
