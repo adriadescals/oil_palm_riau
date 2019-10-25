@@ -11,6 +11,6 @@ The repository contains the folling files:
 - Assessment_of_Random_Forest_for_oil_palm_classification.ipynb : Assessment and feature selection of Random Forest for the classification of oil palm.
 - Model_comparison_SFS_for_oil_palm_classification.ipynb : Comparison of supervised classificatoin models for oil palm classification.
 
-Adrià Descals - a.descals@creaf.uab.cat
+Adrià Descals - a.descals@creaf.uab.cat / 
 CREAF - Centre de Recerca Ecològica i Aplicacions Forestals
 
