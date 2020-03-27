@@ -11,7 +11,7 @@ The repository contains the following files:
 - Assessment_of_Random_Forest_for_oil_palm_classification.ipynb : Assessment and feature selection of Random Forest for the classification of oil palm.
 - Model_comparison_SFS_for_oil_palm_classification.ipynb : Comparison of supervised classification models for oil palm mapping.
 
-The publication can be accessed at https://doi.org/10.3390/rs11212590
+The publication about this work can be accessed at https://doi.org/10.3390/rs11212590
 
 Descals, A., Szantoi, Z., Meijaard, E., Sutikno, H., Rindanata, G., & Wich, S. (2019). Oil Palm (Elaeis guineensis) Mapping with Details: Smallholder versus Industrial Plantations and their Extent in Riau, Sumatra. Remote Sensing, 11(21), 2590.
 
