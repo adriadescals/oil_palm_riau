@@ -11,6 +11,10 @@ The repository contains the following files:
 - Assessment_of_Random_Forest_for_oil_palm_classification.ipynb : Assessment and feature selection of Random Forest for the classification of oil palm.
 - Model_comparison_SFS_for_oil_palm_classification.ipynb : Comparison of supervised classification models for oil palm mapping.
 
+The publication can be accessed at https://doi.org/10.3390/rs11212590
+
+Descals, Adrià, et al. "Oil Palm (Elaeis guineensis) Mapping with Details: Smallholder versus Industrial Plantations and their Extent in Riau, Sumatra." Remote Sensing 11.21 (2019): 2590.
+
 Adrià Descals - a.descals@creaf.uab.cat / 
 CREAF - Centre de Recerca Ecològica i Aplicacions Forestals
 
