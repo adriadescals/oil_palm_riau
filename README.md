@@ -13,7 +13,7 @@ The repository contains the following files:
 
 The publication can be accessed at https://doi.org/10.3390/rs11212590
 
-Descals, Adrià, et al. "Oil Palm (Elaeis guineensis) Mapping with Details: Smallholder versus Industrial Plantations and their Extent in Riau, Sumatra." Remote Sensing 11.21 (2019): 2590.
+Descals, A., Szantoi, Z., Meijaard, E., Sutikno, H., Rindanata, G., & Wich, S. (2019). Oil Palm (Elaeis guineensis) Mapping with Details: Smallholder versus Industrial Plantations and their Extent in Riau, Sumatra. Remote Sensing, 11(21), 2590.
 
 Adrià Descals - a.descals@creaf.uab.cat / 
 CREAF - Centre de Recerca Ecològica i Aplicacions Forestals
